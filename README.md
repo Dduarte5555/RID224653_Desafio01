@@ -10,5 +10,17 @@ Este projeto consiste no desenvolvimento de um portfólio pessoal utilizando **R
 
 ---
 
-### Passo a Passo
+## Passo a Passo
 
+1. Entrar na pasta do projeto
+ ```bash
+   cd portfolio
+```
+2. Instale as dependências
+```bash
+   npm install
+```
+3. Inicie o servidor em desenvolvimento
+```bash
+   npm run dev
+```
